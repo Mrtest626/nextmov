@@ -90,8 +90,8 @@ Thanks to [InfotelGroup](https://telegram.dog/InFoTelGroup) and [Erich Daniken](
 
 ### Deploy in your vps
 ```sh
-git clone https://github.com/UvinduBro/Unlimited-Filter-Bot
-cd Unlimited-Filter-Bot
+git clone https://github.com/Mrtest626/nextmov
+cd nextmov
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
 python3 bot.py
