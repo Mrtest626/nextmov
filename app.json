@@ -8,8 +8,8 @@
         "Telegram Bot",
         "Uvindu Bro"
     ],
-    "website": "https://uvindubro.tk",
-    "repository": "https://github.com/UvinduBro/Unlimited-Filter-Bot",
+    "website": "https://github.com/Mrtest626/nextmov",
+    "repository": "https://github.com/Mrtest626/nextmov",
     "success_url": "https://telegram.dog/UvinduBro",
     "env": {
         "WEBHOOK": {
