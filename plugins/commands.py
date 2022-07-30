@@ -243,12 +243,12 @@ async def help(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("How to Deploy?", url="https://youtu.be/hkmc3e7U7R4"),
+                    InlineKeyboardButton("Owner", url="https://t.me/Anonymousbro36"),
                     InlineKeyboardButton("About Me", callback_data="about_data")
                 ],
                 [
-                    InlineKeyboardButton("BOT Channel", url="https://t.me/UvinduBro_BOTs"),
-                    InlineKeyboardButton("Support Group", url="https://t.me/UvinduBr")
+                    InlineKeyboardButton("MOVIE REQUEST", url="https://t.me/MalyalammoviesTeam"),
+                    InlineKeyboardButton("new movies", url="https://t.me/+g8H_W9Y6FB1iYzg1")
                 ]
             ]
         ),
@@ -265,7 +265,7 @@ async def about(client, message):
             [
                 [
                     InlineKeyboardButton(
-                        "SOURCE CODE", url="https://github.com/UvinduBro/Unlimited-Filter-Bot")
+                        "JOIN", url="https://t.me/+g8H_W9Y6FB1iYzg1")
                 ],
                 [
                     InlineKeyboardButton("BACK", callback_data="help_data"),
